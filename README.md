@@ -1,0 +1,2 @@
+# Pariwisata
+Input pariwisata
